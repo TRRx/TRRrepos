@@ -1,1 +1,1 @@
-# TRRrepos
+Hackerrank repository
